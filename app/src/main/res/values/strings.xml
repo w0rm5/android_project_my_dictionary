@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Dictionary</string>
+    <string name="search_placeholder">Enter a word</string>
+</resources>
